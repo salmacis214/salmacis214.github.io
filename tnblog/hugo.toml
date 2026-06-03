@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+locale = 'en-gb'
+title = 'Tarun Nair'
+theme = 'mytheme'
