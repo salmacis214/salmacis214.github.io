@@ -14,4 +14,6 @@ My non-algebraic interests are predominantly music, reading and gaming, which na
 
 along with shavings of indie pop, Italo Disco, jazz guitar etc.
 
+I also (occasionally) write for Imperial's student publication *Felix*: you can find my articles [on the website](https://felixonline.co.uk/author/tarun-nair/).
+
 Reach out to me at `tarunrn[at]yahoo[dot]com`. I don't bite, unless you send spam or something.
