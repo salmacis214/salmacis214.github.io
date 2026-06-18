@@ -8,5 +8,5 @@ Hi! I'm a third-year university maths student, so naturally I'm allergic to touc
 
 ### What I've recently listened to:
 - *Little Earthquakes* (1991), Tori Amos
-- *Superunknown* (1994), Soundgarden
-- *Brahms Symphony No.1* (2004), Kurt Masur, New York Philharmonic Orchestra
+- *Drones* (2015), Muse
+- *Nantucket Sleighride* (1971), Mountain
