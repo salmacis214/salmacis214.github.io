@@ -2,6 +2,7 @@ baseURL = 'https://salmacis214.github.io/'
 locale = 'en-gb'
 title = 'Tarun Nair'
 theme = 'mytheme'
+summaryLength = 40
 
 [taxonomies]
   category = 'categories'
