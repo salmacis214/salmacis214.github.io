@@ -1,5 +1,6 @@
 <section class="summary">
   <h2 style="margin-bottom: -5px;"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  <small>{{ .Date | time.Format ":date_medium" }}</small>
+  <!-- <small>{{ time.Format "2 January 2026" "2015-01-21" }}</small> -->
+  <small>{{ .Date | time.Format "2 January 2006" }} </small>
   <p>{{ .Summary }}</p>
 </section>
